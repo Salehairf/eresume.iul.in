@@ -1,0 +1,24 @@
+.btn {
+  all: unset;
+  background-color: #fd6f00;
+  border-radius: 5px;
+  box-sizing: border-box;
+  height: 52px;
+  position: relative;
+  width: 188px;
+}
+
+.btn .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 16px;
+  white-space: nowrap;
+  width: 83px;
+}
